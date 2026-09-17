@@ -7,7 +7,7 @@ name = "warfare-wdd"
 version = "0.0.1"
 description = "Warfare: Win, Die, or Dominate - A Python strategy-based PyGame. Bribe, bluff, and battle your way to world domination in this thrilling game of strategy and cunning."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.15"
 license = { text = "MIT" }
 authors = [
     { name = "Boss-1s" }
